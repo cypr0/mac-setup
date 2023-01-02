@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Please check compatibility with your IT-environment before installing the profile. Use at your own risk. No warranty granted.</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>ConnectedOfficeExperiencesPreference</key>
+			<false/>
+			<key>DefaultsToLocalOpenSave</key>
+			<true/>
+			<key>DiagnosticDataTypePreference</key>
+			<string>ZeroDiagnosticData</string>
+			<key>DisableVisualBasicExternalDylibs</key>
+			<true/>
+			<key>DisableVisualBasicMacScript</key>
+			<true/>
+			<key>DisableVisualBasicToBindToPopen</key>
+			<true/>
+			<key>InstallOneDrive</key>
+			<false/>
+			<key>InstallOneNote</key>
+			<false/>
+			<key>InstallOutlook</key>
+			<false/>
+			<key>InstallTeams</key>
+			<false/>
+			<key>OfficeActivationEmailAddress</key>
+			<string>mail@philipp-rosch.de</string>
+			<key>OfficeAutoSignIn</key>
+			<true/>
+			<key>OfficeExperiencesAnalyzingContentPreference</key>
+			<false/>
+			<key>OptionalConnectedExperiencesPreference</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Office</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.office.6538418B-D886-45FD-8434-9B564056273C</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.office</string>
+			<key>PayloadUUID</key>
+			<string>26029D4F-8B24-4C0F-9AE8-82515DA2DD24</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<false/>
+			<key>ShowWhatsNewOnLaunch</key>
+			<false/>
+			<key>TermsAccepted1809</key>
+			<true/>
+			<key>VisualBasicMacroExecutionState</key>
+			<string>DisabledWithWarnings</string>
+			<key>msoridDefaultMinimumSeverity</key>
+			<integer>200</integer>
+			<key>msoridEnableLogging</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Excel</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.Excel.8E707E14-B065-46A8-A176-F9398AE2F980</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.Excel</string>
+			<key>PayloadUUID</key>
+			<string>104B6404-21BB-4825-AC82-CBD99EB93232</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<false/>
+			<key>kFREEnterpriseTelemetryInfoKey</key>
+			<true/>
+			<key>kFRETelemetryConsentKey</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Word</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.Word.08E1AD50-AE25-4121-824E-A58ED19471A9</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.Word</string>
+			<key>PayloadUUID</key>
+			<string>2816C8E5-2A06-4784-8AE4-18E81AF82C73</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<false/>
+			<key>kFREEnterpriseTelemetryInfoKey</key>
+			<true/>
+			<key>kFRETelemetryConsentKey</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>AcknowledgedDataCollectionPolicy</key>
+			<string>RequiredDataOnly</string>
+			<key>Applications</key>
+			<dict>
+				<key>/Applications/Company Portal.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>IMCP01</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft Defender ATP.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>WDAV00</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft Edge.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>EDGE01</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft Excel.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>XCEL2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft OneNote.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>ONMC2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft Outlook.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>OPIM2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft PowerPoint.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>PPT32019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft Remote Desktop.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>MSRD10</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft Teams.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>TEAMS10</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Microsoft Word.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>MSWD2019</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/OneDrive.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>ONDR18</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Applications/Skype for Business.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>MSFB16</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+				<key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+				<dict>
+					<key>Application ID</key>
+					<string>MSau03</string>
+					<key>LCID</key>
+					<integer>1033</integer>
+					<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+			<key>ChannelName</key>
+			<string>Current</string>
+			<key>ExtendedLogging</key>
+			<true/>
+			<key>HowToCheck</key>
+			<string>AutomaticDownload</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft AutoUpdate</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.autoupdate2.9181DAA8-000C-4B89-AC0A-D9C8FB3B9C92</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.autoupdate2</string>
+			<key>PayloadUUID</key>
+			<string>3C86D692-AB7B-4CF8-ACB2-755FEAFE2DC8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UpdateCheckFrequency</key>
+			<integer>120</integer>
+			<key>UpdateDeadline.DaysBeforeForcedQuit</key>
+			<integer>1</integer>
+			<key>UpdateDeadline.FinalCountDown</key>
+			<integer>60</integer>
+			<key>UpdateDeadline.StartAutomaticUpdates</key>
+			<integer>1</integer>
+			<key>UpdaterOptimization</key>
+			<string>CPU</string>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft AutoUpdate FBA</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.autoupdate.fba.F2B044EF-1906-4C4A-8839-0E1806E0544D</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.autoupdate.fba</string>
+			<key>PayloadUUID</key>
+			<string>84CB8832-D0B9-4AFC-8CEB-D61A8759DDCD</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>IsAttachedEnabled</key>
+			<false/>
+			<key>IsStoreLastCrashEnabled</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Error Reporting</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.errorreporting.66E235EB-F2AB-4EC2-B18A-7EBB06E9B9C5</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.errorreporting</string>
+			<key>PayloadUUID</key>
+			<string>6F3FEB7A-5FEC-470D-B362-34FBFEE1B63A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft OneNote</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.onenote.mac.6CCCFF55-5EEC-452A-8F20-0ECB1A348865</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.onenote.mac</string>
+			<key>PayloadUUID</key>
+			<string>8B137606-4A69-4CE2-B436-4F384413BD3E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<false/>
+			<key>kFREEnterpriseTelemetryInfoKey</key>
+			<true/>
+			<key>kFRETelemetryConsentKey</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft PowerPoint</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.Powerpoint.83D3F50C-3BFF-41AC-8F84-A1D6531B705A</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.Powerpoint</string>
+			<key>PayloadUUID</key>
+			<string>D1656A56-CB30-4B98-8132-AE656D78F093</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<false/>
+			<key>kFREEnterpriseTelemetryInfoKey</key>
+			<true/>
+			<key>kFRETelemetryConsentKey</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>ClientSettings.DisableTelemetryUpload</key>
+			<true/>
+			<key>ClientSettings.FirstRunExperienceLaunchedVersion</key>
+			<string>1</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Remote Desktop</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.rdc.macos.120401EA-85BE-47C5-A41E-0BD4661343F1</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.rdc.macos</string>
+			<key>PayloadUUID</key>
+			<string>798470BE-A5B0-42C7-A366-3BB32C1C4A30</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Office 365 Service</string>
+			<key>PayloadIdentifier</key>
+			<string>com.microsoft.Office365ServiceV2.DDFCDA96-B007-4801-B017-EA95C7C173CA</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.Office365ServiceV2</string>
+			<key>PayloadUUID</key>
+			<string>DDFCDA96-B007-4801-B017-EA95C7C173CA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SendAllTelemetryEnabled</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Microsoft 365 hardening according to my personal baseline focussing on GDPR and individual setup (v 1.0.0 - 01-02-2023)</string>
+	<key>PayloadDisplayName</key>
+	<string>Personal Baseline Microsoft 365</string>
+	<key>PayloadIdentifier</key>
+	<string>personal-baseline.ms365</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>62379D88-9EA9-493E-B779-EAD7B7BFB095</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>RemovalDate</key>
+	<date>2026-12-31T16:01:07Z</date>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
